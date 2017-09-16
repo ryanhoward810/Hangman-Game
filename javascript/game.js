@@ -33,27 +33,27 @@ document.addEventListener("DOMContentLoaded", function(){
         possibleWords = [
         {
             "word": "aztecs",
-            "img": "assets/logos/sdsu.jpg"
+            "img": "desktop/assets/mascots/sdsu.jpg"
         },
         {
             "word": "bruins",
-            "img": "assets/logos/ucla.png"
+            "img": "desktop/assets/mascots/ucla.png"
         },
         {
             "word": "trojans",
-            "img": "assets/logos/usc.png"
+            "img": "desktop/assets/mascots/usc.png"
         },
         {
             "word": "cardinal",
-            "img": "assets/logos/stanford.jpg"
+            "img": "desktop/assets/mascots/stanford.jpg"
         },
          {
             "word": "bears",
-            "img": "assets/logos/cal.jpg"
+            "img": "desktop/assets/mascots/cal.jpg"
         },
          {
             "word": "bulldogs",
-            "img": "assets/logos/fresnostate.png"
+            "img": "desktop/assets/mascots/fresnostate.png"
         },
         ],
         currentGameWord;
