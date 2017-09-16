@@ -22,38 +22,38 @@ document.addEventListener("DOMContentLoaded", function(){
         rightGuesses = 0,
         totalGuesses = 0,
         stickman = [
-            "assets/images/start.png",
-            "assets/images/one.png",
-            "assets/images/two.png",
-            "assets/images/three.png",
-            "assets/images/four.png",
-            "assets/images/five.png",
-            "assets/images/hanged.png"
+            "images/start.png",
+            "images/one.png",
+            "images/two.png",
+            "images/three.png",
+            "images/four.png",
+            "images/five.png",
+            "images/hanged.png"
         ],
         possibleWords = [
         {
             "word": "aztecs",
-            "img": "desktop/assets/mascots/sdsu.jpg"
+            "img": "mascots/sdsu.jpg"
         },
         {
             "word": "bruins",
-            "img": "desktop/assets/mascots/ucla.png"
+            "img": "mascots/ucla.png"
         },
         {
             "word": "trojans",
-            "img": "desktop/assets/mascots/usc.png"
+            "img": "mascots/usc.png"
         },
         {
             "word": "cardinal",
-            "img": "desktop/assets/mascots/stanford.jpg"
+            "img": "mascots/stanford.jpg"
         },
          {
             "word": "bears",
-            "img": "desktop/assets/mascots/cal.jpg"
+            "img": "mascots/cal.jpg"
         },
          {
             "word": "bulldogs",
-            "img": "desktop/assets/mascots/fresnostate.png"
+            "img": "mascots/fresnostate.png"
         },
         ],
         currentGameWord;
